@@ -9,5 +9,8 @@ public class testSayHello {
     @Test
     public void testSayHello() {
         System.out.println("hello world");
+
+
+        System.out.println("这是修改信息了！！！！");
     }
 }
